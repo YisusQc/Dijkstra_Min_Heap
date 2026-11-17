@@ -1,0 +1,16 @@
+# Ejecutables
+main
+
+# Objetos y bibliotecas
+*.o
+*.a
+*.so
+
+# Archivos temporales
+*.log
+*.out
+
+# Editor
+.vscode/
+.idea/
+
